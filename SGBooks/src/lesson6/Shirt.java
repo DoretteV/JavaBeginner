@@ -17,6 +17,7 @@ public class Shirt {
     public static void main(String[] args) {
         
         int counter = 10;
+        //declare and instantiate shirt object
         Shirt myShirt =  new Shirt();
         Shirt yourShirt = new Shirt();
         

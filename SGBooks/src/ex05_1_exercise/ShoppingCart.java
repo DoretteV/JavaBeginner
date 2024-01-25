@@ -14,6 +14,7 @@ package ex05_1_exercise;
 public class ShoppingCart {
 
     public static void main(String[] args) {
+         // local variables
         String custName = "Mary Smith";
         String itemDesc = "Shirt";
 
@@ -29,7 +30,7 @@ public class ShoppingCart {
         
         // Declare outOfStock variable and initialize it
         
-        boolean outOfStock = false;
+        boolean outOfStock = true;
         
         // Test quantity and modify message if quantity > 1.  
         
