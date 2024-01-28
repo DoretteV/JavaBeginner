@@ -9,22 +9,43 @@ package lesson8;
  * @author pierr
  */
 public class Shirt {
-    
+
     public Shirt() {
-        System.out.println("In shirt Constructor");
-        description = "-description required";
-        colorCode = 'U';
-        price = 0.0;
+
     }
-    
+
+    //Fields
     public String description;
     public char colorCode;
     public double price;
+
+    //Constructor
+    public Shirt(String desc, String color, double price) {
+        setFields(desc, price);
+        setColor(color);
+        //display();
+
+    }
+
+    public void setColor(String color) {
+        if (color.length() > 0) {
+            colorCode = color.charAt(0);
+        }
+    }
+
+    ;
     
+    //Methods
     public void display() {
         System.out.println("Shirt description: " + description);
         System.out.println("Color Code: " + colorCode);
         System.out.println("Shirt price: R" + price);
+
     }
-    
+
+    public void setFields(String desc, double price) {
+        this.description = desc;
+        this.price = price;
+    }
+
 }
