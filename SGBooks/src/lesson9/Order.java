@@ -50,7 +50,7 @@ class Item {
 
 class Customer {
 
-    private boolean loyaltyDiscount;
+    private boolean loyaltyDiscount;    //default false
 
     public boolean hasLoyaltyDiscount() {
         return loyaltyDiscount;
