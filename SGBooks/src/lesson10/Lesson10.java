@@ -27,7 +27,7 @@ public class Lesson10 {
 //        
 //        System.out.println("I scored " + numberOfGoals + " " + ((numberOfGoals == 1) ? "goal" : "goals"));
 //Number of days in a month
-        int month = 11;
+        int month = 8;
         boolean isLeapYear = false;
 //        if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12) {
 //            System.out.println("31 Days in a month");
