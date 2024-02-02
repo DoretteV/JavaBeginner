@@ -11,14 +11,12 @@ package lesson12;
 public class Shirt extends Clothing {
    private char fit = 'U';
    
-   public Shirt(char fit) {
-       this(15.00, fit);
-   }
-   
-   public Shirt(double price, char fit){
-       super(price);
+   public Shirt(char fit, int itemId, String desc, double price, char colorCode) {
+       super(itemId, desc, price, colorCode);
        this.fit = fit;
    }
+   
+
 
     /**
      * @return the fit
@@ -32,7 +30,22 @@ public class Shirt extends Clothing {
      */
     public void setFit(char fit) {
         this.fit = fit;
+
     }
     
-    
+    @Override
+    public void display() {
+//        super.display();
+        System.out.println("Fit is " + fit);
+    }
+
+    @Override
+    public void setPrice(double price) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    @Override
+    public double getPrice() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }

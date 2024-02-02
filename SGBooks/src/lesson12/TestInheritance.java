@@ -26,8 +26,8 @@ public class TestInheritance {
 //        System.out.println("Description is " + myShirt.getDesc());
 //        System.out.println("Id is " + myShirt.getItemId());
 
-        Shirt myShirt = new Shirt(200.00, 'M');
-        Shirt yourShirt = new Shirt('L');
+//        Shirt myShirt = new Shirt(200.00, 'M');
+//        Shirt yourShirt = new Shirt('L');
     }
     
 }
