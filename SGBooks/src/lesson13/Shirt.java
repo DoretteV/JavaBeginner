@@ -10,7 +10,7 @@ import lesson12.*;
  *
  * @author pierr
  */
-public class Shirt extends Clothing {
+public class Shirt extends Clothing implements Printable{
    private char fit = 'U';
    
    public Shirt(char fit, int itemId, String desc, double price, char colorCode) {
@@ -52,5 +52,10 @@ public class Shirt extends Clothing {
     @Override
     public void display() {
         
+    }
+
+    @Override
+    public void print() {
+        System.out.println("Busy printing the shirt");
     }
 }

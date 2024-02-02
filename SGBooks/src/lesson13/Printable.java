@@ -10,4 +10,6 @@ package lesson13;
  */
 public interface Printable {
     
+    public void print();
+    
 }
