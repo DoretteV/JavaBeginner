@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SGBooks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SGBooks.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
