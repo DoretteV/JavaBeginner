@@ -2,13 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package lesson12;
+package lesson13;
+
+import lesson12.*;
 
 /**
  *
  * @author pierr
  */
-public class Trousers extends Clothing {
+public class Trousers extends Clothing implements Returnable{
     
     private char gender;
     private char fit;
@@ -56,6 +58,12 @@ public class Trousers extends Clothing {
 
     @Override
     public double getPrice() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Price");
+        return 0;
+    }
+
+    @Override
+    public void doReturn() {
+        System.out.println("Returning trousers");
     }
 }
