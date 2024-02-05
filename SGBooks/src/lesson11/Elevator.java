@@ -27,7 +27,7 @@ public class Elevator {
         System.out.println("moved up to floor " + currentFloor);
     }
       public void goDown() {
-          System.out.println("moved down to floor " + currentFloor);
         currentFloor--;
+        System.out.println("moved down to floor " + currentFloor);
     }
 }

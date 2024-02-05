@@ -11,8 +11,8 @@ package lesson11;
 public class ElevatorTest {
     public static void main(String[] args) {
         Elevator elevator = new Elevator();
-        elevator.currentFloor = 7;
-        int target = 2;
+        elevator.currentFloor = 3;
+        int target = 5;
         elevator.changeFloor(target);
     }
     
