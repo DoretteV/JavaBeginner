@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/06-ObjectsClasses_Practice1/06-ObjectsClasses_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/06-ObjectsClasses_Practice1/06-ObjectsClasses_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/06-ObjectsClasses_Practice2/06-ObjectsClasses_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/06-ObjectsClasses_Practice2/06-ObjectsClasses_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/07-ManipulateFormat_Practice1/07-ManipulateFormat_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/07-ManipulateFormat_Practice1/07-ManipulateFormat_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/08-Methods_Practice1/08-Methods_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/08-Methods_Practice1/08-Methods_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/08-Methods_Practice2/08-Methods_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/08-Methods_Practice2/08-Methods_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/08-Methods_Practice3/08-Methods_Practice3.iml" filepath="$PROJECT_DIR$/SoccerApp/08-Methods_Practice3/08-Methods_Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/09-EncapConstructors_Practice1/09-EncapConstructors_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/09-EncapConstructors_Practice1/09-EncapConstructors_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/09-EncapConstructors_Practice2/09-EncapConstructors_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/09-EncapConstructors_Practice2/09-EncapConstructors_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/10-Conditions_Practice2/10-Conditions_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/10-Conditions_Practice2/10-Conditions_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/10-Conditions_Solution1/10-Conditions_Solution1.iml" filepath="$PROJECT_DIR$/SoccerApp/10-Conditions_Solution1/10-Conditions_Solution1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/11-ArraysLoopsDates_Practice1/11-ArraysLoopsDates_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/11-ArraysLoopsDates_Practice1/11-ArraysLoopsDates_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/11-ArraysLoopsDates_Practice2/11-ArraysLoopsDates_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/11-ArraysLoopsDates_Practice2/11-ArraysLoopsDates_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/12-UsingInheritance_Practice1/12-UsingInheritance_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/12-UsingInheritance_Practice1/12-UsingInheritance_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/12-UsingInheritance_Practice2/12-UsingInheritance_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/12-UsingInheritance_Practice2/12-UsingInheritance_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/13-UsingInterfaces_Practice1/13-UsingInterfaces_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/13-UsingInterfaces_Practice1/13-UsingInterfaces_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/13-UsingInterfaces_Practice2/13-UsingInterfaces_Practice2.iml" filepath="$PROJECT_DIR$/SoccerApp/13-UsingInterfaces_Practice2/13-UsingInterfaces_Practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/13-UsingInterfaces_Practice3/13-UsingInterfaces_Practice3.iml" filepath="$PROJECT_DIR$/SoccerApp/13-UsingInterfaces_Practice3/13-UsingInterfaces_Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoccerApp/14-Exceptions_Practice1/14-Exceptions_Practice1.iml" filepath="$PROJECT_DIR$/SoccerApp/14-Exceptions_Practice1/14-Exceptions_Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBeginner.iml" filepath="$PROJECT_DIR$/.idea/JavaBeginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaForDummies/JavaForDummies.iml" filepath="$PROJECT_DIR$/JavaForDummies/JavaForDummies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SGBooks/SGBooks.iml" filepath="$PROJECT_DIR$/SGBooks/SGBooks.iml" />
+    </modules>
+  </component>
+</project>
